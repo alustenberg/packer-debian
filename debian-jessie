@@ -62,6 +62,7 @@
         "scripts/sudoers.sh",
         "scripts/vagrant.sh",
         "scripts/vbaddguest.sh",
+        "scripts/puppet.sh",
         "scripts/cleanup.sh"
       ],
       "only": ["virtualbox-iso"]
